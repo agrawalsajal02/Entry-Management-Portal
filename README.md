@@ -78,7 +78,7 @@ Imp: For Host , You Have To Sign Up On summer Geek
 4) All the Route and their Links had been added
 5) Now For **Api** Section , I have Selected **Gmail Api**  From Email , And ***WaysT0Sms*** api for Sms . Then I integrated Those in my web server
 6) Uses **Passport .js** For ***login Authentication*** For Host Login and Signup
-7) Implemented of **Database** on **MongoDb**
+7) Implemented of **Database** on **MongoDb** and designed Database Schema of Guest and Host 
 8) then After Completion , I had Hosted Full WebSite On **Heroku**
   
 
