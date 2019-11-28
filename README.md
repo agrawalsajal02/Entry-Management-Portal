@@ -58,7 +58,7 @@ Since there is Heavy Images , Web Site Loading Takes Time , Please operate after
 
 ###  If you are a Host
 ```
-Imp: For Host , You Have To Sigh Up On summer Geek
+Imp: For Host , You Have To Sign Up On summer Geek
  ```
  1) Click on **Sign Up** On Navigation Bar
  2) Fill Your Details
