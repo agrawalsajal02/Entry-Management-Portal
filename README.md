@@ -45,15 +45,15 @@ Since there is Heavy Images , Web Site Loading Takes Time , Please operate after
    
  1) **Want to meet someone from Office** 
 	* Hover over the Guest option in Navigation bar and select Check-in
-   	* Fill The details name, Email , Phone
+   	* Fill The details Name, Email , Phone
    	* In the Field of Host Name , Fill Full Host Name (see Available Host Name For reference)
-   	* Click submit
+   	* Click Submit
     * It Will send Your Meeting Request To the Host
     
    2) **Want to Check Out**
        1) Hover over the Guest option in Navigation bar and select Check-out
-       2) Find YOur Name
-       3) Click checkout Button
+       2) Find Your Name
+       3) Click Checkout Button
        4) This will Send You email and sms , on your Provided Phone number and email about details about todays Visit at summergeek
 
 ###  If you are a Host
@@ -68,7 +68,17 @@ Imp: For Host , You Have To Sigh Up On summer Geek
  -- If Already registered click **Login** in on Navigation bar
 
 
+### Approch Of Project
+1) First I have Decided total number of **Routes** needed For Summergeek And their Work including All ***Get Route*** And ***Post Route*** and ***delete route***
+2) Then I have Designed its Frontend Part In **Bootstrap and semantic Ui** (Due to Time Constaints , I have Less Focused on FrontEnd part Desigining , more on Backend Designing )
+3) Then I set up **Express Node** Web Server at my Local Port
+4) All the Route and their Links had been added
+5) Now For **Api** Section , I have Selected **Gmail Api**  From Email , And ***WaysT0Sms*** api for Sms . Then I integrated Those in my web server
+6) Uses **Passport .js** For ***login Authentication*** For Host Login and Signup
+7) Implemented of **Database** on **MongoDb**
+  
 
+   
   
 
 # AUTHOR
@@ -77,8 +87,7 @@ Imp: For Host , You Have To Sigh Up On summer Geek
 
 SAJAL AGRAWAL
 
-  
-
 NIT PATNA
 
+sajal.agarwal703@gmail.com
 ```
