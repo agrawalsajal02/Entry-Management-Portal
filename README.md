@@ -51,7 +51,7 @@ For SMS alert , between 10 pm to 9 am the government of India restrict the promo
    	* Fill The details Name, Email , Phone
    	* In the Field of Host Name , Fill Full Host Name (see Available Host Name For reference)
    	* Click Submit
-    * It Will send Your Meeting Request To the Host
+    * It Will send Your Meeting Request To the Host (Email and SMS to Host Registered Number)
     
    2) **Want to Check Out**
        1) Hover over the Guest option in Navigation bar and select Check-out
