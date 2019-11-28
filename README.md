@@ -1,6 +1,3 @@
-# summergeek
-A Entry Management website Where Guest Meet Their Host
-
 
 # A Entry Management Website that Schedules an appointment for Guest to meet his Host At Office
 
