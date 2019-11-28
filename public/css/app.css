@@ -1,0 +1,38 @@
+body{
+    background:url("1.jpg");
+    background-size  : cover;;
+    background-position: 50% 2%;
+    font-family:Lato;
+}
+#home{
+    background : url(1.jpg);
+    height: 2000px;
+    width: 2000px;
+    background-size:cover ;
+    }
+
+#content{
+    text-align: center;
+    padding-top: 31%;
+    text-shadow: 0px 3px 4px red,
+                 0px 8px 13px orange,
+                 0px 10px 14px rgba(0,0,0,0.4);
+   
+}
+html{
+    height:100%;
+}
+hr{
+    width:400px;
+}
+h1{
+    color:white;
+    font-weight:700;
+    font-size:4em;
+}
+h3{
+    color:white;
+}
+.navbar-inverse .navbar-nav > li > a,.navbar-inverse .navbar-brand{
+    color:white;
+}

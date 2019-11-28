@@ -1,0 +1,39 @@
+
+                  <% include partials/header.ejs %>
+<br><br><br>                    <br><br>
+
+                  <div class="ui main text container">
+                        <div class="ui huge header">Visiter list	</div>
+                        <div class="ui top attached segment">
+                            <div class="ui divided items">
+                           
+                    
+                                        <% visiter.forEach(function(visiter){ %>
+                                        <div class="item">
+                                        <div class="content">
+                                          <b>Name:</b> &nbsp;&nbsp;  <%=visiter.name%><br>
+                                          <b>Email:</b> &nbsp;&nbsp;  <%=visiter.email%><br>
+                                          <b>Phone:</b>  &nbsp;&nbsp; <%=visiter.phone%><br>
+                                          <b>Checkin:</b> &nbsp;&nbsp;  <%=visiter.checkintime%><br>
+                                          <b>Host Name:</b>&nbsp;&nbsp;   <%=visiter.host%><br>
+                                        </div> 
+                                          <% var ii="/checkout/"%>
+                                        <% var id=ii+visiter._id; %>
+                                          <div class="extra right">
+                                                <a class="ui floated basic violet button" href="<%=id%>">Check Out<i class="right chevron icon"></i></a></div>
+                            </div>
+                                        <%});%>
+                     
+                                
+                        </div>
+                    
+                    </div>
+                    </div>
+
+
+
+
+                    <% include partials/footer.ejs %>
+<!-- 
+    </body>
+</html> -->

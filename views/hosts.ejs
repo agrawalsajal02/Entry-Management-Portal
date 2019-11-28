@@ -1,0 +1,37 @@
+
+                  <% include partials/header.ejs %>
+                  <br><br><br>                    
+                  
+                                    <div class="ui main text container">
+                                          <div class="ui huge header">Host Availablity&nbsp;&nbsp;&nbsp;<h3><a href="/checkin">Back</a></h3></div>
+                                          
+                                          <div class="ui top attached segment">
+                                              <div class="ui divided items">
+                                             
+                                      
+                                                          <% host.forEach(function(host){ %>
+                                                          <div class="item">
+                                                          <div class="content">
+                                                            <b>Name:</b> &nbsp;&nbsp;  <%=host.name%><br>
+                                                            <b>Email:</b>  &nbsp;&nbsp; <%=host.email%><br>
+                                                             <b>Phone number:</b>&nbsp;&nbsp;   <%=host.phone%><br>
+                                                             </div> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                                             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                                             <div class="extra right">
+                                                                  <a class="ui floated basic violet button" href="#">Check Out<i class="right chevron icon"></i></a></div>
+                                              </div>
+                                                          <%});%>
+                                       
+                                                  
+                                          </div>
+                                      
+                                      </div>
+                                      </div>
+                  
+                  
+                  
+                  
+                                      <% include partials/footer.ejs %>
+                  <!-- 
+                      </body>
+                  </html> -->

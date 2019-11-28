@@ -1,0 +1,26 @@
+<% include partials/header.ejs %>
+<br><br><br>
+                  <div class="container">
+                        <div class="row">
+                            
+                    <h1 style="text-align : center">Guest Entry</h1> 
+                    <div style="width :30%; margin:30px auto;">
+                    <form class="form-group" action="/checkin" method="POST">
+                        <label>Name </label><div class="form-group"><input class="form-control" type="text" name="name"  placeholder="name"></div>
+                        <label>Email </label><div class="form-group"><input class="form-control" name="email" 	placeholder="email"></div>
+                        <label>Phone</label><div class="form-group"><input class="form-control" name="phone" 	placeholder="Phone"></div>
+                        <br><div class="form-group"><button class="btn btn-lg btn-primary btn-block">Submit</button></div>
+                        
+                    </form>
+                    <h3><%=msg%></h3>
+                        
+                            </div>
+                        </div>
+                        
+                    </div>
+                
+
+
+
+
+                    <% include partials/footer.ejs %>
