@@ -9,9 +9,9 @@
 
 ```
 
-Since there is Heavy Images , Web Site Loading Takes Time , Please operate after Full Load
-This website is only made to be viewed in desktop version , it interface is not suitable for mobile platform .(due to time constraints of submitting the assignment , I am unable to do so )
-For SMS alert , between 10 pm to 9 am the government of India restrict the promotional msg on DND numbers , there it may be possible that you will not get get the msg on the given time , but surely you will get that on morning .
+. Since there is Heavy Images , Web Site Loading Takes Time , Please operate after Full Load
+. This website is only made to be viewed in desktop version , it interface is not suitable for mobile platform .(due to time constraints of submitting the assignment , I am unable to do so )
+. For SMS alert , between 10 pm to 9 am the government of India restrict the promotional msg on DND numbers , there it may be possible that you will not get get the msg on the given time , but surely you will get that on morning .
 ```
 
   
