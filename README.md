@@ -76,6 +76,7 @@ Imp: For Host , You Have To Sigh Up On summer Geek
 5) Now For **Api** Section , I have Selected **Gmail Api**  From Email , And ***WaysT0Sms*** api for Sms . Then I integrated Those in my web server
 6) Uses **Passport .js** For ***login Authentication*** For Host Login and Signup
 7) Implemented of **Database** on **MongoDb**
+8) then After Completion , I had Hosted Full WebSite On **Heroku**
   
 
    
