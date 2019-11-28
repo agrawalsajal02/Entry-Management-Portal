@@ -131,10 +131,7 @@ Imp: For Host , You Have To Sign Up On summer Geek
 
 [![Not able to render the image](https://raw.githubusercontent.com/agrawalsajal02/summergeek/master/public/screenshots/checkout.png)](https://raw.githubusercontent.com/agrawalsajal02/summergeek/master/public/screenshots/checkout.png)
 
-  
-#### 3. SMS sent to the Host
-
-[![Not able to render the image](https://github.com/saran-shabd/summergeeks-2020/raw/master/screenshots/SMS.png)](https://github.com/saran-shabd/summergeeks-2020/blob/master/screenshots/SMS.png)
+ 
 
 
 * ## Contributing
