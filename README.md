@@ -114,32 +114,47 @@ Imp: For Host , You Have To Sign Up On summer Geek
 
 ## Screenshots
 
+
+
 #### 1. Homepage
 
 
 [![Not able to render the image](https://raw.githubusercontent.com/agrawalsajal02/summergeek/master/public/screenshots/front.png)](https://raw.githubusercontent.com/agrawalsajal02/summergeek/master/public/screenshots/front.png)
 
 
+
+
 #### 2. logIn By Guest
 
 [![Not able to render the image](https://github.com/agrawalsajal02/summergeek/blob/master/public/screenshots/login.png)](https://github.com/agrawalsajal02/summergeek/blob/master/public/screenshots/login.png)
 
+
+
 #### 3. SignUp By Guest
 
+
+
 [![Not able to render the image](https://github.com/agrawalsajal02/summergeek/blob/master/public/screenshots/register.png)](https://github.com/agrawalsajal02/summergeek/blob/master/public/screenshots/register.png)
+
+
 
 
 #### 4. Checkin Visitor
 
 [![Not able to render the image](https://raw.githubusercontent.com/agrawalsajal02/summergeek/master/public/screenshots/guest.png)](https://raw.githubusercontent.com/agrawalsajal02/summergeek/master/public/screenshots/guest.png)
 
+
+
 #### 5. CheckIn Form Submit , Email TO Host
 
-[![Not able to render the image]https://github.com/agrawalsajal02/summergeek/blob/master/public/screenshots/hostemail.jpg)](https://github.com/agrawalsajal02/summergeek/blob/master/public/screenshots/hostemail.jpg)
+[![Not able to render the image](https://github.com/agrawalsajal02/summergeek/blob/master/public/screenshots/hostemail.jpg)](https://github.com/agrawalsajal02/summergeek/blob/master/public/screenshots/hostemail.jpg)
+
+
 
 #### 6.CheckIn Form Submit , msg To Host
 
 [![Not able to render the image](https://github.com/agrawalsajal02/summergeek/blob/master/public/screenshots/hostsms.jpg)](https://github.com/agrawalsajal02/summergeek/blob/master/public/screenshots/hostsms.jpg)
+
 
 
 
@@ -148,9 +163,13 @@ Imp: For Host , You Have To Sign Up On summer Geek
 [![Not able to render the image](https://raw.githubusercontent.com/agrawalsajal02/summergeek/master/public/screenshots/checkout.png)](https://raw.githubusercontent.com/agrawalsajal02/summergeek/master/public/screenshots/checkout.png)
 
 
+
+
 #### 8. Email To Guest After Checkout
 
 [![Not able to render the image](https://github.com/agrawalsajal02/summergeek/blob/master/public/screenshots/guestemail.jpg)](https://github.com/agrawalsajal02/summergeek/blob/master/public/screenshots/guestemail.jpg)
+
+
 
 
 
