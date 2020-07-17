@@ -1,7 +1,6 @@
 
 ## 
 
-> Innovaccer SDE Challenge
 
 # A Entry Management Website that Schedules an appointment for Guest to meet his Host At Office 
 
