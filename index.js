@@ -13,7 +13,7 @@ var express = require("express");
 /*database connection*/
 mongoose
   .connect(
-    "mongodb+srv://sajalagrawal14:1999%40sajal@cluster0-urgf0.mongodb.net/test?retryWrites=true&w=majority",
+    "///enter yours",
     {
       useNewUrlParser: true,
       useCreateIndex: true,
